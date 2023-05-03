@@ -4,3 +4,4 @@ amazon-linux-extras install java-openjdk11 -y
 yum install git maven jenkins -y
 systemctl start jenkins.service
 systemctl status jenkins.service
+sfhnn
