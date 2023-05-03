@@ -5,3 +5,4 @@ yum install git maven jenkins -y
 systemctl start jenkins.service
 systemctl status jenkins.service
 sfhnn
+dfghjkl
