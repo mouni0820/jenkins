@@ -6,3 +6,4 @@ systemctl start jenkins.service
 systemctl status jenkins.service
 sfhnn
 dfghjkl
+cgh
